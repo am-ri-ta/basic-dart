@@ -1,6 +1,6 @@
 
 // interface class
-
+// class 2
 abstract class PaymentGateway {
   cashOut(double amount);
   cashIn(double amount);
